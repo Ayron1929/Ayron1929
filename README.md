@@ -1,18 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <img width="140", src="https://github.com/Ayron1929/Ayron1929/blob/main/IMG_2083.JPG" />
+  <h2 align="center">Ayron 砾川</h2>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
-<!--
-**Ayron1929/Ayron1929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+<p align="center">
+<a href="https://fxxkpython.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayron1929&hide=contribs"/>
+</a>
+</p>
