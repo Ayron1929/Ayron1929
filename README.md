@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Ayron1929/VFIA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayron1929&repo=VFIA"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayron1929&repo=VFIA&show_owner=true"/>
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/Ayron1929/baran_lichuan_espl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayron1929&repo=baran_lichuan_espl"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayron1929&repo=baran_lichuan_espl&show_owner=true"/>
   </a>
 </p>
 
