@@ -8,7 +8,7 @@
   </p>
   <p align="center">
 <a href="https://www.instagram.com/ayron1929/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayron1929" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayron-qin-26998528b/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryon-qin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lichuan-qin-26998528b/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryon-qin" height="30" width="40" /></a>
 </p>
 </p>
 
